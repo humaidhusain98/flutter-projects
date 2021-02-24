@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5268c305-d379-42a3-bca0-ad628ecf972f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1diHdce4pTNJfXkFYOkVUwfoEvU" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/quotes" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5268c305-d379-42a3-bca0-ad628ecf972f" name="Default Changelist" comment="" />
+      <created>1592901081614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592901081614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="937" y="735" width="914" height="175" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592905480947">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="937" y="735" width="914" height="175" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1592905480947" />
+    <state x="729" y="256" width="524" height="601" key="FileChooserDialogImpl" timestamp="1592902044070">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="729" y="256" width="524" height="601" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1592902044070" />
+    <state width="831" height="439" key="GridCell.Tab.0.bottom" timestamp="1593191960924">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="831" height="439" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1593191960924" />
+    <state width="831" height="439" key="GridCell.Tab.0.center" timestamp="1593191960924">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="831" height="439" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1593191960924" />
+    <state width="831" height="439" key="GridCell.Tab.0.left" timestamp="1593191960923">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="831" height="439" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1593191960923" />
+    <state width="831" height="439" key="GridCell.Tab.0.right" timestamp="1593191960924">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="831" height="439" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1593191960924" />
+    <state x="419" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1593233813482">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="419" y="346" key="com.intellij.ide.util.TipDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1593233813482" />
+    <state x="957" y="251" key="run.anything.popup" timestamp="1593160044193">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="957" y="251" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1593160044193" />
+  </component>
+</project>

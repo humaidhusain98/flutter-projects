@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2a95bfc-92f6-4bf7-aa22-66af87e13a55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="flutter_app" />
+  </component>
+  <component name="ProjectId" id="1dBXYdzK60Ck4QsE7iTutbrdW2S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2a95bfc-92f6-4bf7-aa22-66af87e13a55" name="Default Changelist" comment="" />
+      <created>1591899510779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591899510779</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="101" width="1269" height="912" key="SettingsEditor" timestamp="1611254933322">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="361" y="101" width="1269" height="912" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1611254933322" />
+    <state x="1024" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1611255055547">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1024" y="279" key="com.intellij.ide.util.TipDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1611255055547" />
+  </component>
+</project>
